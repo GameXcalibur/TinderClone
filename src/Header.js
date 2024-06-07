@@ -22,8 +22,8 @@ function Header({ backButton }) {
       <Link to="/">
         <img
           className="header__logo"
-          src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png"
-          alt="tinder logo"
+          src="https://static.vecteezy.com/system/resources/previews/002/442/871/non_2x/love-heart-logo-and-symbol-free-vector.jpg"
+          alt="Logo"
         />
       </Link>
       <Link to="/chat">

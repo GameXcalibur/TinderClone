@@ -8,7 +8,7 @@ const Chats = () => {
       name="Labrador"
       message="Wuff" 
       timestamp="6 mins ago" 
-      profilePic="https://gooddoggies.online/wp-content/uploads/2020/06/5-Tips-To-Training-A-Labrador-Puppy-1.jpg"
+      profilePic="https://thehappypuppysite.com/wp-content/uploads/2019/06/Mini-Shiba-Inu-HP-long.jpg"
       />
       <Chat
       name="Shiba Inu"
